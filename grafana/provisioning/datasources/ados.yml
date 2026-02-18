@@ -1,0 +1,9 @@
+apiVersion: 1
+
+datasources:
+  - name: ADOS
+    type: simpod-json-datasource
+    access: proxy
+    url: http://ados-api:8000/grafana
+    isDefault: true
+    editable: true

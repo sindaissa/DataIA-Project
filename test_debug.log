@@ -1,0 +1,219 @@
+INFO:ados.system:\u2550\u2550\u2550 ADOS v2 System Initialization \u2550\u2550\u2550
+INFO:ados.system:\u25b8 Step 1/8: Loading CSV data products with contracts...
+INFO:ados.layer4_data_mesh.data_product:DataProductRegistry: found 17 CSV files in C:\Users\sinda\OneDrive\Bureau\chall2tal
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Billing.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Billing: 2 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Billing
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Billing rows=2 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Churn_Category.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Churn_Category: 5 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Churn_Category
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Churn_Category rows=5 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Churn_Category_Reason.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Churn_Category_Reason: 1869 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Churn_Category_Reason
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Churn_Category_Reason rows=1869 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Churn_Reason.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Churn_Reason: 20 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Churn_Reason
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Churn_Reason rows=20 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Contract.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Contract: 3 rows, 4 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Contract
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Contract rows=3 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Customer.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Customer: 7043 rows, 23 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Customer
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Customer rows=7043 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Customer_Churn_Category.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Customer_Churn_Category: 1869 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Customer_Churn_Category
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Customer_Churn_Category rows=1869 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Customer_Feature.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Customer_Feature: 21586 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Customer_Feature
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Customer_Feature rows=21586 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Customer_Status.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Customer_Status: 3 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Customer_Status
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Customer_Status rows=3 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Dependency.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Dependency: 2 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Dependency
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Dependency rows=2 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Internet_Service.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Internet_Service: 3 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Internet_Service
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Internet_Service rows=3 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Internet_Service_Feature.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Internet_Service_Feature: 21586 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Internet_Service_Feature
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Internet_Service_Feature rows=21586 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Location.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Location: 1625 rows, 8 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Location
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Location rows=1625 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Marital_Statu.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Marital_Statu: 2 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Marital_Statu
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Marital_Statu rows=2 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Payment.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Payment: 4 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Payment
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Payment rows=4 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Phone_Service.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Phone_Service: 9 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Phone_Service
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Phone_Service rows=9 contract=True>
+INFO:ados.layer4_data_mesh.data_product:Loading CSV: C:\Users\sinda\OneDrive\Bureau\chall2tal\Service_Plan.csv
+INFO:ados.layer4_data_mesh.data_product:Loaded Service_Plan: 3 rows, 2 columns
+INFO:ados.layer4_data_mesh.data_product:Contract validated \u2714 for Service_Plan
+INFO:ados.layer4_data_mesh.data_product:  \u2714 Registered: <CSVDataProduct:Service_Plan rows=3 contract=True>
+INFO:ados.system:\u25b8 Step 2/8: Registering in metadata catalog...
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Billing' (2 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Churn_Category' (5 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Churn_Category_Reason' (1869 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Churn_Reason' (20 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Contract' (3 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Customer' (7043 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Customer_Churn_Category' (1869 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Customer_Feature' (21586 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Customer_Status' (3 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Dependency' (2 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Internet_Service' (3 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Internet_Service_Feature' (21586 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Location' (1625 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Marital_Statu' (2 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Payment' (4 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Phone_Service' (9 rows, owner=auto-detected)
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: registered 'Service_Plan' (3 rows, owner=auto-detected)
+INFO:ados.system:\u25b8 Step 3/8: Running quality assessments...
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Billing' (2 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Billing' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Billing' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Churn_Category' (5 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Churn_Category' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Churn_Category' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Churn_Category_Reason' (1869 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Churn_Category_Reason' \u2192 score=83.5/100, grade=B, issues=2
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Churn_Category_Reason' with quality=83.5 (B)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Churn_Reason' (20 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Churn_Reason' \u2192 score=97.6/100, grade=A, issues=2
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Churn_Reason' with quality=97.6 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Contract' (3 rows × 4 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Contract' \u2192 score=83.0/100, grade=B, issues=3
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Contract' with quality=83.0 (B)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Customer' (7043 rows × 23 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Customer' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Customer_Churn_Category' (1869 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Customer_Churn_Category' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer_Churn_Category' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Customer_Feature' (21586 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Customer_Feature' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer_Feature' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Customer_Status' (3 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Customer_Status' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer_Status' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Dependency' (2 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Dependency' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Dependency' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Internet_Service' (3 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Internet_Service' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Internet_Service' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Internet_Service_Feature' (21586 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Internet_Service_Feature' \u2192 score=83.0/100, grade=B, issues=2
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Internet_Service_Feature' with quality=83.0 (B)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Location' (1625 rows × 8 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Location' \u2192 score=97.6/100, grade=A, issues=2
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Location' with quality=97.6 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Marital_Statu' (2 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Marital_Statu' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Marital_Statu' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Payment' (4 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Payment' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Payment' with quality=98.0 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Phone_Service' (9 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Phone_Service' \u2192 score=97.6/100, grade=A, issues=2
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Phone_Service' with quality=97.6 (A)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: assessing 'Service_Plan' (3 rows × 2 cols)
+INFO:ados.layer3_data_fabric.quality_engine:QualityEngine: 'Service_Plan' \u2192 score=98.0/100, grade=A, issues=1
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Service_Plan' with quality=98.0 (A)
+INFO:ados.system:\u25b8 Step 4/8: Loading semantic layer...
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: loaded 7 glossary terms, 23 annotations for 'telco_churn_with_all_feedback'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Billing'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Churn_Category'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Churn_Category_Reason'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Churn_Reason'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 4 columns for 'Contract'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 23 columns for 'Customer'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Customer_Churn_Category'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Customer_Feature'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Customer_Status'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Dependency'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Internet_Service'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Internet_Service_Feature'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 8 columns for 'Location'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Marital_Statu'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Payment'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Phone_Service'
+INFO:ados.layer3_data_fabric.semantic_layer:SemanticLayer: auto-annotated 2 columns for 'Service_Plan'
+INFO:ados.system:\u25b8 Step 5/8: Enriching catalog with semantics...
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Billing' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Churn_Category' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Churn_Category_Reason' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Churn_Reason' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Contract' with 4 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer' with 23 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer_Churn_Category' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer_Feature' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Customer_Status' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Dependency' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Internet_Service' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Internet_Service_Feature' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Location' with 8 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Marital_Statu' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Payment' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Phone_Service' with 2 semantic annotations
+INFO:ados.layer3_data_fabric.metadata_catalog:Catalog: enriched 'Service_Plan' with 2 semantic annotations
+INFO:ados.system:\u25b8 Step 6/8: Running governance compliance checks...
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Billing': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Billing': 5/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Churn_Category': ['Category_Name'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Churn_Category': 4/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Churn_Category_Reason': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Churn_Category_Reason': 5/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Churn_Reason': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Churn_Reason': 5/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Contract': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Contract': 5/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Customer': ['CustomerID', 'Age', 'Customer_Status_ID', 'Phone_Service_ID'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Customer': 4/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Customer_Churn_Category': ['CustomerID'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Customer_Churn_Category': 4/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Customer_Feature': ['CustomerID'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Customer_Feature': 4/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Customer_Status': ['Customer_Status_ID'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Customer_Status': 4/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Dependency': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Dependency': 5/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Internet_Service': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Internet_Service': 5/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Internet_Service_Feature': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Internet_Service_Feature': 5/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Location': ['City', 'Zip_Code'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Location': 4/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Marital_Statu': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Marital_Statu': 5/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Payment': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Payment': 5/5 passed
+INFO:ados.layer4_data_mesh.governance:Governance: access policy set for 'Phone_Service': INTERNAL
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Phone_Service': 5/5 passed
+WARNING:ados.layer4_data_mesh.governance:Governance: PII detected in 'Service_Plan': ['Phone_Service_ID', 'Phone_Service_Type'] \u2192 RESTRICTED access
+INFO:ados.layer4_data_mesh.governance:Governance: compliance check for 'Service_Plan': 4/5 passed
+INFO:ados.system:\u25b8 Step 7/8: Building Neo4j knowledge graph...
+INFO:ados.layer2_kernel.knowledge_graph:Neo4j KG: connecting to bolt://localhost:7688
+INFO:ados.layer2_kernel.knowledge_graph:Neo4j KG: graph already loaded — 8724 nodes, 110297 relationships (skipping reload)
+INFO:ados.system:\u25b8 Step 8/8: Wiring LangGraph orchestrator...
+INFO:ados.layer2_kernel.orchestrator:LangGraph orchestrator compiled and ready (graph-native)
+INFO:ados.system:\u2550\u2550\u2550 ADOS v2 System Ready \u2550\u2550\u2550
